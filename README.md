@@ -40,7 +40,7 @@
 $ git clone https://github.com/victorborges97/clone-app-twitch
 <br>
 
-<span class="pl-c"><span class="pl-c">#</span> Acesse a pasta do projeto no prompt de comando, depois entre em cada pasta Back-end, Front-end e Mobile.</span>
+<span class="pl-c"><span class="pl-c">#</span> Acesse a pasta do projeto no prompt de comando.</span>
 $ cd clone-app-twitch
 <br>
 
@@ -56,7 +56,7 @@ $ npm start
 $ yarn start
 <br>
 
-<span class="pl-c"><span class="pl-c">#</span> O projeto vai inicializar o Expo e você vai poder executar no emulador do computador ou pelo proprio celular com o APP Expo </span>
+<span class="pl-c"><span class="pl-c">#</span> O projeto vai inicializar o Expo e você vai poder executar no emulador<br> do computador ou pelo proprio celular com o APP Expo </span>
 
 </pre>
 </div>
